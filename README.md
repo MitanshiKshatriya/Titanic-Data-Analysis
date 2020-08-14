@@ -1,2 +1,5 @@
 # Titanic-Data-Analysis
- Data analysis and prediction model for the popular kaggle dataset- Titanic.
+ 
+ Using Logistiic Regression Model on the popular Kaggle Titanic dataset to predict which passengers have survived the Titanic shipwreck.
+ 
+
